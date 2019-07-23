@@ -1,0 +1,60 @@
+h1{
+  color: "black";
+  text-align: center;
+  text-transformation: uppercase;
+  font-size: 2em;
+  line-height: 4em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+h2{
+  color: #7CBD17;
+  text-transformation: lowercase;
+  letter-spacing: 1.5px;
+}
+body{
+  text-align: center;
+}
+
+
+.left {
+  font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  text-align: left;
+}
+
+.right {
+  font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  text-align: right;
+}
+
+
+.subheadingone {
+  text-align: middle;
+  letter-spacing: 4px;
+  font-size: 20px;
+  color: #BD178A
+}
+
+.subheadingtwo {
+  text-align: middle;
+  letter-spacing: 4px;
+  font-size: 20px;
+  color: #7E0FB1
+}
+
+.style {
+  background-color: "white";
+  border-radius: 12px;
+  border: 2px solid "black";
+  font-family: Courier;
+  font-size: 1em;
+}
+
+#unique{
+  color: "#1E168D";
+  text-align: center;
+  text-transformation: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 20px;
+}
